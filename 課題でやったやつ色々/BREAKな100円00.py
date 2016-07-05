@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 print("100円の崩し方大全。")
 print("50　10　5　1")
 count=0

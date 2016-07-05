@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import math
 
 print("0から90度までのsin,cos,tanを表示します！")
