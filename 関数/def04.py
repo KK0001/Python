@@ -9,6 +9,7 @@ def uranai(name):#nameに名前を入力、食べるべき料理が表示され�
 uranai("ボ")#例として「ボ」さんを占います
 
 
+
 """
 recipes[ord(name[0])%len(recipes)]　の説明（自分用）
 名前の1文字目をord()という関数を使って文字コードに変換。
