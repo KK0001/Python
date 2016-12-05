@@ -1,7 +1,7 @@
 #入力
 a=float(input("あなたの体重(kg):"))
 b=float(input("あなたの身長(m):"))
-BMI=a/(b**2)#BMIです。
+BMI=a/(b*b)#BMIです。
 
 #出力
 print("BMIは"+str(BMI)+"です。")
