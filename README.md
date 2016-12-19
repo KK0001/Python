@@ -33,3 +33,12 @@ classの使い方をよく理解できたらもう一度ToDoリストに挑戦�
 2016/11/12  
 1冊のみで頑張っていたけど、誤植が多くてアレなためもう1冊購入  
 すごく分かりやすくてモチベーションがモリモリになった。  
+2016/12/19  
+openCV云々を弄りたくてやっていたらnumpyでエラーが起きた。  
+標準？で入ってるのと、pipで入れたのがすれ違ってて的な。  
+homebrewでpython入れてから「sudo pip install -U numpy」したらなんか出来た。  
+理由はよくわからない。(pyenvでpythonを入れているので、brewでわざわざ  
+もう１つpythonを入れるのはなぜだろうか。。)  
+とにかく出来たので、良し?  
+参考:  
+http://stackoverflow.com/questions/31900008/oserror-errno-1-operation-not-permitted-when-installing-scrapy-in-osx-10-11  
