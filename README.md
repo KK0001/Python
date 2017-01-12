@@ -42,3 +42,5 @@ homebrewでpython入れてから「sudo pip install -U numpy」したらなん�
 とにかく出来たので、良し?  
 参考:  
 http://stackoverflow.com/questions/31900008/oserror-errno-1-operation-not-permitted-when-installing-scrapy-in-osx-10-11  
+2017/1/12  
+Arduinoの課題レポートにて「pySerial」を使った。これでArduinoと連携できる。イイね！  
