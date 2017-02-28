@@ -1,5 +1,4 @@
-# Python3系練習場   
-SwiftよりPythonを優先します。（基礎は大事）（Pythonは基礎なのか?）  
+# Python3系練習場  
 Pythonの初心者なので、Pythonを練習します。  
 はやく人間になりたい。  
 :D  
